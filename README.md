@@ -8,3 +8,4 @@
 - Ground attack practice field, respawn after 5 minutes maybe?
 - Two Ground attack sites one with AA one without.  Total of four including both factions (VVS and Luft)
 - Allow spectating of other pilots.
+- Enable Remote console for admins.
