@@ -1,6 +1,7 @@
 # Server Wish List
 
 ## FFS Squad Kuban Training Map
+- Despawn timer from 15 to 5 or less, probably zero
 - Make Air Spawns closer
 - Allow mid air exit during match
 - Defensive AA on Airfields
